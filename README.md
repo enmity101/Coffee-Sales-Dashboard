@@ -2,8 +2,8 @@
 
 A comprehensive Excel-based analytics dashboard for visualizing and analyzing coffee sales data across multiple dimensions including time, geography, customer segments, and product categories.
 
-![Dashboard Preview](<img width="1742" height="826" alt="image" src="https://github.com/user-attachments/assets/f22d3b03-4fa6-4ecb-afe1-b34eced44680" />
-)
+<img width="1742" height="826" alt="image" src="https://github.com/user-attachments/assets/02941c5e-af7b-43ba-890e-f0e0f8172b55" />
+
 *Interactive dashboard showcasing sales trends, geographic distribution, and customer analytics*
 
 ## 📊 Project Overview
