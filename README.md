@@ -120,7 +120,7 @@ Product catalog with pricing and specifications.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/coffee-sales-dashboard.git
+git clone https://github.com/enmity101/Coffee-Sales-Dashboard.git
 cd coffee-sales-dashboard
 ```
 
@@ -139,7 +139,6 @@ cd dashboard
 
 ## 📊 Key Insights
 
-*For detailed analysis and business recommendations, see [docs/insights.md](docs/insights.md)*
 
 - Sales show seasonal patterns with peak periods in [specific months]
 - [Country] represents the largest market by total revenue
